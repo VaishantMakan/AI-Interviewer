@@ -55,5 +55,9 @@ yarn-error.log*
 bun-debug.log*
 
 # Cursor
+.cursor
 .cursor/*
 !.cursor/rules
+
+# VS Code
+.vscode/
